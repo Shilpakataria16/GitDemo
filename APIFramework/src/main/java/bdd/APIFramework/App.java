@@ -15,5 +15,9 @@ public class App
         //new updates to understand branching in git
         System.out.println("Git Branching Update1");
         System.out.println("Git Branching Update2");
+        
+        System.out.println("Git Branching Update3");
+        System.out.println("Git Branching Update4");
+        
     }
 }
