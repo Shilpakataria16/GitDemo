@@ -2,6 +2,7 @@ package pojo;
 
 import java.util.List;
 
+//update to understand branching
 public class AddPlace {
 
 	private int accuracy;

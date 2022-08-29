@@ -11,5 +11,9 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Git Update Demo");
         System.out.println("Git Update Demo2");
+        
+        //new updates to understand branching in git
+        System.out.println("Git Branching Update1");
+        System.out.println("Git Branching Update2");
     }
 }
